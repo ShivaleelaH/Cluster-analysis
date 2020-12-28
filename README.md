@@ -1,6 +1,6 @@
 # Cluster-analysis
 
-##Tasks:
+Tasks:
 
 The task of this project is to perform cluster analysis on fashion MNIST dataset using unsupervised learning. Cluster analysis is one of the unsupervised machine learning technique which doesn’t require labeled data.
 
